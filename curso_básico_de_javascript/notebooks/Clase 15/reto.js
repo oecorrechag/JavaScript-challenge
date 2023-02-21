@@ -1,4 +1,4 @@
-function juega(lanzamiento1, lanzamiento2){
+function juega(usuario, pc){
     
     var op1 = "piedra";
     var op2 = "papel";
