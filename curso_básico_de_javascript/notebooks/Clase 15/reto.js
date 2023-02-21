@@ -5,7 +5,6 @@ function juega(usuario, pc){
     var op3 = "tijera";
 
     switch (true){
-
         case usuario == op1 && pc == op2:
             console.log("Gana pc");
             break;
