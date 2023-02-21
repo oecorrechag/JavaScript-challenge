@@ -23,3 +23,9 @@ console.log(myCar)
 myCar.model = "Mazda 3"
 console.log(myCar)
 
+// eliminar  (es valido eliminar un objeto)
+delete myCar["detallecar"]
+console.log(myCar)
+
+
+
